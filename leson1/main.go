@@ -1,6 +1,6 @@
 package main
 
-// для инита необходимо выполнить  go mod init leson1
+// для инита необходимо выполнить  go mod init leson1св
 import "fmt"
 
 func main() {
